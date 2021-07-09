@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Roxza</h1>
 
 <h3 align="center">
-- 📖️ I know javascript and react<br>
-- 👌️ I'm learning typescript. <br>
-- 💙️ I'm friendly, I have a lot of friends <br>
+- 📖️ I know NuxtJS and React.<br>
+- 👌️ I've been trying to learn Windi CSS lately. <br>
+- 💙️ I am an enthusiastic and curious person. <br>
 - 🔥️ All I want is to share quality repos on github <br>
 - 🍍️ You can contact me on discord. Roxza#0003 <br>
 </h3>
